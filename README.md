@@ -22,7 +22,7 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 </details>
 
 <details>
-<summary>Como Sumonar os Denfenses</summary>
+<summary>Como sumonar os denfenses</summary>
   
   + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recursos.
   + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recursos.
@@ -30,7 +30,7 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 </details>
 
 <details>
-<summary>Quantos de Recursos Você Tem</summary>
+<summary>Quantos de recursos você tem</summary>
   
   + Você tem de início 330 de recursos
 
