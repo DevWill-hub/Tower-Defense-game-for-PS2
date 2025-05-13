@@ -22,7 +22,7 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 </details>
 
 <details>
-<summary>Como sumonar os denfenses</summary>
+<summary>Controle Spawn Defense</summary>
   
   + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recursos.
   + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recursos.
@@ -30,18 +30,15 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 </details>
 
 <details>
-<summary>Quantos de recursos você tem</summary>
+<summary>Recursos Primários</summary>
   
-  + Você tem de início 330 de recursos
+  + Você tem de início 330 de recursos.
 
 </details>
 
 <h3 id="preview">🎥 Preview</h3>
 
 <img src="./assets/tower-defense-game.gif" width="600px">
-
-<h3 id="status">🏗Status</h3>
-+ em construção🚧. 
 
 
 <h3 id="autor">✒️ Autor é Créditos</h3>
