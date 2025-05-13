@@ -43,9 +43,9 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 
 <h3 id="autor">✒️ Autor é Créditos</h3>
 
-◽ Criando da engine **Daniel Santos**.
+◽ Criando da engine [**DanielSant0s**](https://github.com/DanielSant0s).
 
-◽️ Motor usado [**AthenaEnv**](https://github.com/brseghese/pp-tower-defense-game).
+◽️ Motor usado [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv).
 
 ◽ Criando original em web **Bruno Seghese**.
 
