@@ -38,7 +38,7 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 
 <h3 id="preview">🎥 Preview</h3>
 
-<img src="./assets/tower-defense-game.gif" width="600px">
+<img src="./tower-defense-game.gif" width="600px">
 
 
 <h3 id="autor">✒️ Autor é Créditos</h3>
