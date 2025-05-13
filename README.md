@@ -16,8 +16,8 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 <details>
 <summary>Dicas</summary>
   
-  + Não deixe seus denfense perto dos Zumbies.
-  + Não coloque demais denfense não tela se não pode ave quendas de fps.
+  + Não deixe seus Denfenses perto dos Zumbies.
+  + Não coloque demais Denfenses não tela se não pode ave quendas de FPS.
 
 </details>
 
