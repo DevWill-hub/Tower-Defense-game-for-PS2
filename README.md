@@ -45,6 +45,8 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 
 ◽ Criando da engine **Daniel Santos**.
 
+◽️ Motor usado [**AthenaEnv**](https://github.com/brseghese/pp-tower-defense-game).
+
 ◽ Criando original em web **Bruno Seghese**.
 
 ◽ Desevolvido por **Dev Will**/**Guizin**.
