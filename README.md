@@ -40,6 +40,9 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 
 <img src="./assets/tower-defense-game.gif" width="600px">
 
+<h3 id="status">status do projeto</h3>
+
+
 <h3 id="autor">✒️ Autor é Créditos</h3>
 
 ◽ Criando da engine **Daniel Santos**.
