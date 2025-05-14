@@ -1,8 +1,9 @@
-## Tower defense PS2 🛡️
-Tower defense é um jogo de atacar é defender, onde você pode tanto ganhar recursos quanto perder recursos.
+# **Tower Defense PS2** 🛡️  
+*Um jogo de estratégia onde você defende seu território contra hordas de zumbis usando robôs defensivos!*  
 
-<h3 id="inicio">🚀 Início</h3>
-Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de código aberto o original no caso, por algum motivo o desenvolvedor saiu do githud sobrando só esse repositório igual ao dele mais eu já tinha a permissão dele então tá de boa.
+<h3 id="inicio">🚀 Introdução</h3>  
+Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, adaptado para PlayStation 2 com mecânicas únicas.  
+⚠️ **Aviso**: O jogo original era *open-source*, mas o desenvolvedor saiu do GitHub. Este repositório é uma versão autorizada e modificada por mim.
 
 <h3 id="sobre">🎮 Sobre o Jogo</h3>  
 
