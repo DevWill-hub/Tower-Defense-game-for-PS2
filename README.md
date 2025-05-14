@@ -42,12 +42,9 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 <img src="./tower-defense-game.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação">
 
 
-<h3 id="autor">✒️ Autor é Créditos</h3>
+<h3 id="autor">✒️ Autores e Créditos</h3>  
 
-◽ Criando da engine [**DanielSant0s**](https://github.com/DanielSant0s).
-
-◽️ Motor usado [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv).
-
-◽ Criando original em web **Bruno Seghese**.
-
-◽ Desevolvido por **Dev Will**/**Guizin**.
+- **Engine**: Desenvolvida por [DanielSant0s](https://github.com/DanielSant0s).  
+- **Motor gráfico**: [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv).  
+- **Versão original (Web)**: Bruno Seghese.  
+- **Desenvolvimento atual**: **Dev Will** / **Guizin**.
