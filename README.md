@@ -2,6 +2,7 @@
 *Um jogo de estratégia onde você defende seu território contra hordas de zumbis usando robôs defensivos!*  
 
 <h3 id="inicio">🚀 Introdução</h3>  
+
 Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, adaptado para PlayStation 2 com mecânicas únicas.  
 ⚠️ **Aviso**: O jogo original era *open-source*, mas o desenvolvedor saiu do GitHub. Este repositório é uma versão autorizada e modificada por mim.
 
