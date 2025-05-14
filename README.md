@@ -37,9 +37,9 @@ Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de
 
 </details>
 
-<h3 id="preview">🎥 Preview</h3>
+<h3 id="preview">🎥 Preview</h3>  
 
-<img src="./tower-defense-game.gif" width="600px">
+<img src="./tower-defense-game.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação">
 
 
 <h3 id="autor">✒️ Autor é Créditos</h3>
