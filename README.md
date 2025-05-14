@@ -4,35 +4,36 @@ Tower defense é um jogo de atacar é defender, onde você pode tanto ganhar rec
 <h3 id="inicio">🚀 Início</h3>
 Antes de começamos a falar mais sobre o projeto um aviso esse jogo ele (era) de código aberto o original no caso, por algum motivo o desenvolvedor saiu do githud sobrando só esse repositório igual ao dele mais eu já tinha a permissão dele então tá de boa.
 
-<h3 id="Sobre">🎮 Sobre o Jogo</h3>
-<details>
-<summary>Objetivo</summary>
-  
-  + Não deixe os Zumbies ultrapassarem da direita para a esquenda.
-  + Colente moedas para almentar seus recursos.
-
-</details>
+<h3 id="sobre">🎮 Sobre o Jogo</h3>  
 
 <details>
-<summary>Dicas</summary>
-  
-  + Não deixe seus Denfenses perto dos Zumbies.
-  + Não coloque demais Denfenses não tela se não pode ave quendas de FPS.
+<summary><strong>🎯 Objetivo</strong></summary>  
 
-</details>
+- Impedir que os zumbis **avançem da direita para a esquerda** do mapa.  
+- Coletar **moedas** para aumentar seus recursos e comprar defesas.  
 
-<details>
-<summary>Controle Spawn Defense</summary>
-  
-  + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recursos.
-  + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recursos.
-
-</details>
+</details>  
 
 <details>
-<summary>Recursos Primários</summary>
-  
-  + Você tem de início 330 de recursos.
+<summary><strong>💡 Dicas</strong></summary>  
+
+- Posicione suas **defesas** longe dos zumbis para maximizar o tempo de ataque.  
+- Evite colocar muitas defesas na tela para **prevenir quedas de FPS**.  
+
+</details>  
+
+<details>
+<summary><strong>🎮 Controles (Spawn de Defesas)</strong></summary>  
+
+- **Defesa 1**: Botão <kbd>X</kbd> (Custo: 100 recursos).  
+- **Defesa 2**: Botão <kbd>□</kbd> (Custo: 160 recursos).  
+
+</details>  
+
+<details>
+<summary><strong>💰 Recursos</strong></summary>  
+
+- Recursos iniciais: **330**.  
 
 </details>
 
