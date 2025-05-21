@@ -3,7 +3,7 @@
 
 <h3 id="inicio">🚀 Introdução</h3>  
 
-Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, adaptado para PlayStation 2 com mecânicas únicas.  
+Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, proposto pelo canal: **Franks laboratory** o intuito desse projeto é divertir é ajudar devs que estão começando agora.
 ⚠️ **Aviso**: O jogo original era *open-source*, mas o desenvolvedor saiu do GitHub. Este repositório é uma versão autorizada e modificada por mim.
 
 <h3 id="sobre">🎮 Sobre o Jogo</h3>  
