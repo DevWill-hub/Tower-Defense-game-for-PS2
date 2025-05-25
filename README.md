@@ -5,7 +5,7 @@
 
 Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, proposto pelo canal [**Franks laboratory**](https://youtube.com/@frankslaboratory?si=TL8yjnoXaUclc3eb), o intuito desse projeto é divertir é ajudar devs que estão começando agora.
 
-⚠️ **Aviso**: O jogo original era *open-source*, mas o desenvolvedor saiu do GitHub. Este repositório é uma versão autorizada e modificada por mim.
+⚠️ **Aviso**: O jogo original era *open-source*, mas o desenvolvedor saiu do GitHub. Este repositório é uma versão autorizada e modificada por nós.
 
 <h3 id="sobre">🎮 Sobre o Jogo</h3>  
 
