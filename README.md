@@ -1,4 +1,4 @@
-# **Tower Defense PS2** 🛡️  
+7# **Tower Defense PS2** 🛡️  
 *Um jogo de estratégia onde você defende seu território contra hordas de zumbis usando robôs defensivos!*  
 
 <h3 id="inicio">🚀 Introdução</h3>  
@@ -42,7 +42,7 @@ Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, pro
 
 <h3 id="preview">🎥 Preview</h3>  
 
-<img src="assets/Prevew-Tower-Defense-PS2.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação">
+<img src="assets/Prevew-Tower-Defense-PS2.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação(test)">
 
 
 <h3 id="autor">✒️ Autores e Créditos</h3>  
