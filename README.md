@@ -1,4 +1,4 @@
-7# **Tower Defense PS2** 🛡️  
+# **Tower Defense PS2** 🛡️  
 *Um jogo de estratégia onde você defende seu território contra hordas de zumbis usando robôs defensivos!*  
 
 <h3 id="inicio">🚀 Introdução</h3>  
