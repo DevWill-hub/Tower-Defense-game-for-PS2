@@ -42,7 +42,7 @@ Este projeto é uma **reinterpretação** do clássico *Plants vs. Zombies*, pro
 
 <h3 id="preview">🎥 Preview</h3>  
 
-<img src="./tower-defense-game.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação">
+<img src="assets/Preview-Tower-Defense-PS2.gif" width="600" alt="GIF do jogo Tower Defense PS2 em ação">
 
 
 <h3 id="autor">✒️ Autores e Créditos</h3>  
