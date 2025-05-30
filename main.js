@@ -143,7 +143,7 @@ Screen.display(() => {
             load.font.print(10, 30, `Resources: ${resources}`);
             
             load.font.print(220, 220, "GAME OVER");
-            load.font.print(170, 250, "Press START to try again");
+            load.font.print(145, 250, "Press START to try again");
             const padOver = Pads.get(0);
             if (padOver.justPressed(Pads.START)) {
                 score = 0;
