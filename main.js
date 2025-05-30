@@ -39,7 +39,6 @@ const load = {
 load.font.color = Color.new(252, 227, 3);
 
 let estado = "inicio";
-let gameStarted = false;
 let resources = 330;
 let levelComplete = false;
 let score = 0;
