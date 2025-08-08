@@ -5,6 +5,6 @@
 
   ● Suporte ao teclado.
   ● Configuracões do jogo adicionando.
-  ● Configuracão de tela adcionando.
-  ● Sistema de dificudade do jogo adcionando.
+  ● Configuracão de tela adicionando.
+  ● Sistema de dificudade do jogo adicionando.
 */
