@@ -64,7 +64,7 @@ Primeiro, vá para os [**Releases Page**](https://github.com/DevWill-hub/Tower-D
 3. Navegue até o seu pen drive (`mass:/`) e execute o arquivo localizado em `Tower-Defense-Game-v2.2.1/Robôs vs. Zombies.elf`.
 
 ## 🎥 Preview
-<img src=".github/Preview-Robôs vs. Zombies.gif" width="400">
+<img src="github/Preview-Robôs vs. Zombies.gif" width="400">
 
 ## ✒️ Autores e Créditos
 - **Motor gráfico**: [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) por `Daniel Santos`.
