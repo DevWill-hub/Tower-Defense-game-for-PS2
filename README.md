@@ -43,7 +43,7 @@ Primeiro, vá para os [**Releases Page**](https://github.com/DevWill-hub/Tower-D
 
 **Versão ISO (Recomendado)**
 1.  Baixe o arquivo `.iso`.
-2.  No seu emulador, basta carregar the `.iso` file to start the game.
+2.  No seu emulador, basta carregar o arquivo `.iso` para iniciar o jogo.
 
 **Versão ELF**
 > **Nota:** Este método requer a ativação do recurso "Host File System" no PCSX2 para que o AthenaEnv funcione corretamente, causo não tenha essa funcionalidade como o AetherSX2, o melhor a se fazer é usar a versão `.iso`.
