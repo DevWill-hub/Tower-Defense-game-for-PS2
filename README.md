@@ -30,7 +30,7 @@ Você precisará de um emulador de PlayStation 2 (como [PCSX2](https://pcsx2.net
 
 ### 1. Baixe o jogo
 
-Primeiro, vá para os [**Releases Page**](https://github.com/DevWill-hub/Tower-Denfense-game-for-PS2/releases) e abaixe o formato de sua preferência.
+Primeiro, vá para os [**Releases Page**](https://github.com/DevWill-hub/Tower-Defense-game-for-PS2/releases/tag/Versions) e abaixe o formato de sua preferência.
 
 *   **`.iso`:** Recomendado para a maioria dos que utiliza emuladores e para os que utiliza o OPL para o hardware original.
 * **`.zip`:** Contém o arquivo `.elf`, para o uso com (uLaunchELF/wLaunchELF) ou em emuladores específicos que tenham a configuração disposta a abrir o jogo.
